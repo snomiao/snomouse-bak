@@ -1,4 +1,4 @@
-本仓库收录的原文由 VVXahk 在以下地址作成
+本仓库收录的原文由原作者 VVXahk 在以下地址作成，作者将 CapsLockX 的鼠标控制部分独立了出来。
 
 - [脱胎于CapslockX的雪星鼠标-键盘模拟鼠标 – AutoAHK]( https://www.autoahk.com/archives/44126 )
 
